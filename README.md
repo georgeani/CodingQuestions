@@ -28,7 +28,9 @@ such a way that they close meaning that they do not remain open inside another p
 balanced, then true is returned otherwise false is returned. Additionally, any string inside the brackets is not taken
 into consideration.
 
+The answers can be found [here.](/Java%20Questions)
+
 ### Python Questions
 
 Different LeetCode questions are found in this section. They examine how well you can optimize the code and use
-the built-in features of Python to your advantage.
+the built-in features of Python to your advantage. The questions and answers can be found [here.](/Python%20Questions)
