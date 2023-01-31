@@ -34,3 +34,16 @@ The answers can be found [here.](/Java%20Questions)
 
 Different LeetCode questions are found in this section. They examine how well you can optimize the code and use
 the built-in features of Python to your advantage. The questions and answers can be found [here.](/Python%20Questions)
+
+Some of the questions are the following:
+
+Create a function that takes a decimal digit X as input and returns the sum of X, XX, XXX, and XXXX.
+For example, if the input is 3, the output should be 3702 (3 + 33 + 333 + 3333). [Answer](/Python%20Questions/decimal_digit.py)
+
+Write a program that takes a positive integer as input and returns "true" if the decimal
+representation of that integer doesn't have any odd digits, or "false" otherwise. [Answer](/Python%20Questions/decimal_representation.py)
+
+Write a program to calculate the sum of the first 100 even-valued Fibonacci numbers. [Answer](/Python%20Questions/even_fibonacci_sum.py)
+
+Create a program that takes two sorted arrays of integers as inputs and outputs an array of numbers
+that are present in both arrays. The returned array should not have duplicate values. [Answer](/Python%20Questions/sorted_arrays.py)
